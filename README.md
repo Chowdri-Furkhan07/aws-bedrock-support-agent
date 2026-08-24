@@ -23,7 +23,7 @@ and cheap for the common cases.
 
 Each user message is routed in a fixed order:
 
-1. **Intent detection** (`tools.py::detect_intent`) — checks for email
+1. **Intent detection** (`tools.py::detect_intent`) - checks for email
    keywords (`email`, `send email`, `contact support`, `mail`) and complaint
    keywords (`not delivered`, `damaged`, `failed`, `issue`, `complaint`,
    `delayed`, `problem`, `broken`). Email keywords are checked first, so a
