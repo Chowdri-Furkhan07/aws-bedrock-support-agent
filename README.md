@@ -29,7 +29,7 @@ Each user message is routed in a fixed order:
    `delayed`, `problem`, `broken`). Email keywords are checked first, so a
    message like *"Send an email regarding refund"* is routed to email
    handling rather than being swallowed by a refund-related path.
-2. **FAQ lookup** (`tools.py::get_faq_answer`) — fast keyword-matched
+2. **FAQ lookup** (`tools.py::get_faq_answer`) - fast keyword-matched
    answers for topics like refunds, delivery time, and order tracking.
 3. **LLM fallback** (`agent.py::invoke_bedrock`) — for anything not caught
    above, the query (along with the last few turns of conversation history)
