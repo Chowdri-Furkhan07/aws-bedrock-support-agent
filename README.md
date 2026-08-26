@@ -44,7 +44,7 @@ through to the LLM.
 
 ```
 .
-├── app.py               # Streamlit UI — chat input, history display, sidebar
+├── app.py               # Streamlit UI - chat input, history display, sidebar
 ├── agent.py              # Routing logic, prompt building, Bedrock invocation
 ├── tools.py               # Intent detection, FAQ answers, ticket creation, email stub
 ├── memory.py              # JSON-backed chat history (save/get/get_recent)
