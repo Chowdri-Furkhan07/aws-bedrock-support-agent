@@ -31,7 +31,7 @@ Each user message is routed in a fixed order:
    handling rather than being swallowed by a refund-related path.
 2. **FAQ lookup** (`tools.py::get_faq_answer`) - fast keyword-matched
    answers for topics like refunds, delivery time, and order tracking.
-3. **LLM fallback** (`agent.py::invoke_bedrock`) — for anything not caught
+3. **LLM fallback** (`agent.py::invoke_bedrock`) - for anything not caught
    above, the query (along with the last few turns of conversation history)
    is sent to the Bedrock model for a generated response.
 
