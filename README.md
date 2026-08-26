@@ -126,5 +126,5 @@ GitHub: [@Chowdri-Furkhan07](https://github.com/Chowdri-Furkhan07)
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT - see [LICENSE](LICENSE).
 
