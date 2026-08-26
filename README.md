@@ -10,7 +10,7 @@ A Streamlit-based customer support chatbot that combines rule-based intent
 routing with an LLM fallback powered by **Amazon Bedrock** (Meta LLaMA 3).
 Instead of sending every message straight to the LLM, the agent first checks
 for known intents (email requests, complaints/tickets, FAQs) and only falls
-back to Bedrock for genuinely open-ended queries — keeping responses fast
+back to Bedrock for genuinely open-ended queries - keeping responses fast
 and cheap for the common cases.
 
 ## Screenshots
