@@ -23,6 +23,8 @@ and cheap for the common cases.
 |---|---|
 | ![Preview](screenshots/Preview.png) | ![Result](screenshots/Result.png) |
 
+---
+
 ## How it works
 
 Each user message is routed in a fixed order:
