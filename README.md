@@ -15,6 +15,8 @@ for known intents (email requests, complaints/tickets, FAQs) and only falls
 back to Bedrock for genuinely open-ended queries - keeping responses fast
 and cheap for the common cases.
 
+---
+
 ## Screenshots
 
 | Chat interface | Sample interaction |
