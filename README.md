@@ -105,6 +105,8 @@ and region.
 streamlit run app.py
 ```
 
+---
+
 ## Usage
 
 Type a question into the input box and hit **Send**. A few examples that
