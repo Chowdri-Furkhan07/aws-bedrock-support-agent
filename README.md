@@ -46,6 +46,8 @@ Conversation history is persisted per session to `chat_history.json`
 last 5 turns are pulled back in as short-term context whenever a query falls
 through to the LLM.
 
+---
+
 ## Project structure
 
 ```
