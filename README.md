@@ -64,6 +64,8 @@ through to the LLM.
     └── Result.png
 ```
 
+---
+
 ## Setup
 
 ### 1. Clone and install dependencies
