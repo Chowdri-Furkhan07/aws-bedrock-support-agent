@@ -6,6 +6,8 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+---
+
 A Streamlit-based customer support chatbot that combines rule-based intent
 routing with an LLM fallback powered by **Amazon Bedrock** (Meta LLaMA 3).
 Instead of sending every message straight to the LLM, the agent first checks
