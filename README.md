@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 ### 2. Configure AWS credentials
 
-Create a `.env` file in the project root (this file is **not** committed —
+Create a `.env` file in the project root (this file is **not** committed -
 see `.gitignore`) with:
 
 ```env
