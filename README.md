@@ -123,6 +123,8 @@ Chat history is shown in the main panel and mirrored in the sidebar. Use
 **🗑 Clear Chat** in the sidebar to reset the session (this starts a new
 session ID; the previous session's history remains in `chat_history.json`).
 
+---
+
 ## Notes
 
 - `create_ticket` and `send_email` in `tools.py` are currently mocked —
