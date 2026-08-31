@@ -88,7 +88,7 @@ AWS_REGION=us-east-1
 MODEL_ID=meta.llama3-8b-instruct-v1:0
 ```
 
-- `AWS_ACCESS_KEY_ID` / `AWS_SECRET_ACCESS_KEY` — credentials for an AWS IAM
+- `AWS_ACCESS_KEY_ID` / `AWS_SECRET_ACCESS_KEY` - credentials for an AWS IAM
   user/role with `bedrock:InvokeModel` permission.
 - `AWS_REGION` - the AWS region your Bedrock model access is enabled in.
 - `MODEL_ID` - the Bedrock model ID to invoke (defaults to LLaMA 3 8B
