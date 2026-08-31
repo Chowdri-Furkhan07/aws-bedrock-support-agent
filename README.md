@@ -131,6 +131,8 @@ session ID; the previous session's history remains in `chat_history.json`).
 - `chat_history.json` is written to the project root at runtime; treat it
   as local/session data rather than something to commit.
 
+---
+
 ## Author
 
 **Chowdri Furkhan**
