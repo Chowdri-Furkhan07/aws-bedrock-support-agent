@@ -141,6 +141,8 @@ session ID; the previous session's history remains in `chat_history.json`).
 
 GitHub: [@Chowdri-Furkhan07](https://github.com/Chowdri-Furkhan07)
 
+---
+
 ## License
 
 MIT - see [LICENSE](LICENSE).
