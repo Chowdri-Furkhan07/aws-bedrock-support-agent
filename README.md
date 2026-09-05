@@ -127,7 +127,7 @@ session ID; the previous session's history remains in `chat_history.json`).
 
 ## Notes
 
-- `create_ticket` and `send_email` in `tools.py` are currently mocked —
+- `create_ticket` and `send_email` in `tools.py` are currently mocked -
   they generate a ticket ID / confirmation message but don't integrate with
   a real ticketing or email system.
 - `chat_history.json` is written to the project root at runtime; treat it
